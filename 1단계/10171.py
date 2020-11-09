@@ -1,9 +1,5 @@
-cat1 = " /\"
-cat2 = " )  ( ')"
-cat3 = "(  /  )"
-cat4 = " \(__)|"
-
-print(cat1)
-print(cat1)
-print(cat1)
-print(cat1)
+print('\\    /\\')
+print(' )  ( \')')
+print('(  /  )')
+print(' \\(__)|')
+# 역슬래쉬를 넣어줄때 한 번 더 써주는 것이 포인트
