@@ -1,0 +1,7 @@
+n = int(input())
+# print(n)
+# arr.append(list(map(int, input().split())))
+nums = list(map(int, input().split()))
+# print(nums)
+print(min(nums))
+print(max(nums))
